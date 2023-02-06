@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-06T11:26:15 IST" name="Default suite" finished-at="2023-02-06T11:26:21 IST" duration-ms="5931">
+    <groups>
+    </groups>
+    <test started-at="2023-02-06T11:26:15 IST" name="Default test" finished-at="2023-02-06T11:26:21 IST" duration-ms="5931">
+      <class name="Chaining.ChainingTest">
+        <test-method signature="createUser()[pri:1, instance:Chaining.ChainingTest@59505b48]" started-at="2023-02-06T11:26:15 IST" name="createUser" finished-at="2023-02-06T11:26:19 IST" duration-ms="3361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="getUserDetails()[pri:2, instance:Chaining.ChainingTest@59505b48]" started-at="2023-02-06T11:26:19 IST" name="getUserDetails" finished-at="2023-02-06T11:26:19 IST" duration-ms="725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserDetails -->
+        <test-method signature="updateUserDetails()[pri:3, instance:Chaining.ChainingTest@59505b48]" started-at="2023-02-06T11:26:19 IST" name="updateUserDetails" finished-at="2023-02-06T11:26:20 IST" duration-ms="707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserDetails -->
+        <test-method signature="deleteUserDetails()[pri:4, instance:Chaining.ChainingTest@59505b48]" started-at="2023-02-06T11:26:20 IST" name="deleteUserDetails" finished-at="2023-02-06T11:26:21 IST" duration-ms="598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserDetails -->
+        <test-method signature="FindtheUserAndTheUserIndex()[pri:5, instance:Chaining.ChainingTest@59505b48]" started-at="2023-02-06T11:26:21 IST" name="FindtheUserAndTheUserIndex" finished-at="2023-02-06T11:26:21 IST" duration-ms="481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FindtheUserAndTheUserIndex -->
+      </class> <!-- Chaining.ChainingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
